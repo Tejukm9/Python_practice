@@ -1,7 +1,3 @@
----
-generator: Aspose.Words for Java 23.4.0;
----
-
 Topic 1: Variables & Input
 
 **Challenge 1.1: Write a program that: Asks the user for their first
