@@ -4,8 +4,8 @@ generator: Aspose.Words for Java 23.4.0;
 
 Topic 1: Variables & Input
 
-****Challenge 1.1: Write a program that: Asks the user for their first
-name and last name Then prints: Hello FirstName LastName!****
+**Challenge 1.1: Write a program that: Asks the user for their first
+name and last name Then prints: Hello FirstName LastName!**
 
 Code\
 fname = input(\"Enter your first name: \")\
